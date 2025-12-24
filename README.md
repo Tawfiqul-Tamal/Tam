@@ -1,2 +1,2 @@
 # Tamal
-I am Tamal
+I am Tama
